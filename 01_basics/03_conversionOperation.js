@@ -19,4 +19,28 @@ let booleanisLoggedIn=Boolean(isLoggedIn)
 
 let someNumber=33
 let stringNumber=String(someNumber)
-console.log(typeof stringNumber);
+// console.log(typeof stringNumber);
+
+
+//  *************************************** Operations ****************************************
+
+let value=33
+let negvalue=-value
+// console.log(negvalue)
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1+2+"2");               //Refer mdn docs from corrrect documentation 
+
+let gamechanger=33
+++gamechanger;
+console.log(gamechanger);     //Refer mdn docs for increment and decrement 
+
+//Link to study
+//https://tc39.es/ecma262/#sec-type-conversion
+
+
+
+
+
