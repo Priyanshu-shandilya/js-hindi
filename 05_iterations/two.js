@@ -1,5 +1,5 @@
 
-let index = 0    //it will terminate one time (minimum)
+let index = 0    //it will terminate one time (minimum) 
 // while (index <= 10) {
 //     console.log(`Value of index is ${index}`);
 //     index = index + 2
